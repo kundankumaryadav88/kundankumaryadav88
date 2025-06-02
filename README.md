@@ -1,16 +1,16 @@
 <h1 align="center">Hey there! 👋 I'm Kundan Kumar Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=440&lines=Full-Stack+Developer+%7C+React+Native+Enthusiast;Building+cool+projects+with+MERN+%26+Java+Spring+Boot;Always+learning+%F0%9F%93%9A+Always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=440&lines=Software+Engineer+%7C+React+Native+Enthusiast;Building+cool+projects+with+MERN+%26+Java+Spring+Boot;Always+learning+%F0%9F%93%9A+Always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💼 About Me
 
-- 🔭 Currently working as a **Software Engineer**
+- 👨‍💻 I'm a **Software Engineer** passionate about building reliable, scalable, and user-friendly applications.
 - 🌱 Learning **DevOps, Microservices, Cloud Deployment**
-- 💡 Passionate about clean code, scalable apps & performance optimization
+- 💡 Focused on clean code, performance optimization, and modern architecture
 - 💬 Ask me about **React, Node.js, Spring Boot, MongoDB, React Native**
 - 📫 Reach me at: [kundankumar97779@gmail.com](mailto:kundankumar97779@gmail.com)
 
@@ -41,10 +41,10 @@
 
 | Project | Tech Used | Description |
 |--------|-----------|-------------|
-| 🧾 **Resume Builder** | React, Node.js, MongoDB | Built an ATS-friendly resume builder with export and theme support |
-| 🛍️ **E-commerce Admin Panel** | React, Express, MongoDB | Includes product CRUD, authentication, and analytics dashboard |
+| 🧾 **Resume Builder** | React, Node.js, MongoDB | ATS-friendly resume builder with export & themes |
+| 🛍️ **E-commerce Admin Panel** | React, Express, MongoDB | Product CRUD, auth, and analytics dashboard |
 | 📱 **Emulator App** | Flutter | Mobile emulator for app prototyping |
-| 🍽️ **Restaurant Booking App** | React + API | Book tables across cities with search, filters, and localStorage |
+| 🍽️ **Restaurant Booking App** | React + API | Book tables with city filter, time slot, and calendar |
 
 ---
 
@@ -66,7 +66,7 @@
 
 ---
 
-### 🔗 Let's Connect
+### 🔗 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kkyadav88/" target="_blank">
