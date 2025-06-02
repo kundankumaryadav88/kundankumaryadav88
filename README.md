@@ -1,7 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Kundan Kumar Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=440&lines=Software+Engineer+%7C+React+Native+Enthusiast;Building+cool+projects+with+MERN+%26+Java+Spring+Boot;Always+learning+%F0%9F%93%9A+Always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=800&height=45&lines=Software+Engineer+%7C+React+Native+%7C+Java+Spring+Boot;MERN+Stack+Developer+%7C+Clean+Code+Advocate;Always+learning+%F0%9F%93%9A+Always+building+%F0%9F%9A%80" alt="Typing SVG" />
+
 </p>
 
 ---
